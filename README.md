@@ -1,6 +1,6 @@
-<img src="https://github.com/user-attachments/assets/e2e325ec-9304-48b4-8ecc-263c80374ec3" width="600">
 
-<br>
+<br>![Animatedpixelartthatsoothesmysoul_-AlbumonImgur-ezgif com-resize (1)](https://github.com/user-attachments/assets/375f8025-f05a-46e1-b371-e298fe8114c5)
+
 <div style="text-align: center;"> 
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=8000FF&width=535&lines=Hi%2C+I'm+Shubham+Kumar%F0%9F%91%8B;Let's+Connect!"/>
 </div>
