@@ -1,4 +1,10 @@
-## 🌐 Socials:
+<img src="https://github.com/user-attachments/assets/e2e325ec-9304-48b4-8ecc-263c80374ec3" width="600">
+
+<br>
+<div style="text-align: center;"> 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=8000FF&width=535&lines=Hi%2C+I'm+Shubham+Kumar%F0%9F%91%8B;Let's+Connect!"/>
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kumar-b52bb0157) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubkr244@gmail.com) 
 
 # 💻 Tech Stack:
@@ -15,7 +21,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sk244194&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
