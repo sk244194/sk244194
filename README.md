@@ -13,13 +13,10 @@
 # LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/SuperZoup?ext=heatmap)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sk244194&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sk244194&theme=tokyonight&hide_border=false)<br/>
+# 📊 :Languages Used:
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sk244194&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
